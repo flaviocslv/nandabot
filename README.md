@@ -38,7 +38,7 @@ echo "GROQ_API_KEY=sua_api_key_aqui" > .env
 
 Ou crie manualmente um arquivo `.env` com o seguinte conteúdo:
 ```
-GROQ_API_KEY=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
+GROQ_API_KEY=*********************************************
 ```
 
 **⚠️ IMPORTANTE:** O arquivo `.env` já está no `.gitignore` e não será commitado no git. Nunca exponha sua API key no código!
