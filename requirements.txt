@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-community
+youtube-transcript-api
+pypdf
+python-dotenv
+beautifulsoup4
+streamlit
+
